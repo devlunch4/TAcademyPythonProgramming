@@ -9,3 +9,6 @@
 
 ## Git & GitHub Page <sub>[Link to Python Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=171)</sub>
 [devlunch4's Spring Github] none.
+
+## Javascript 디버깅 및 테스트 방법 <sub>[Link to Python Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=126)</sub>
+[Just Online Class Link]
