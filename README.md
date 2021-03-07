@@ -23,7 +23,6 @@
 [Just Online Class Link]
 
 
-## 데이터베이스 (SQL/ERD/MySQL) - <sub>[Link to Online Class]
-(https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=72)</sub>
+## 데이터베이스 (SQL/ERD/MySQL) - <sub>[Link to Online Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=72)</sub>
 
 [Just Online Class Link]
