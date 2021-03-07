@@ -21,3 +21,9 @@
 ## 초보개발자 오픈소스 프로젝트 참여하기- <sub>[Link to Online Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=127)</sub>
 
 [Just Online Class Link]
+
+
+## 데이터베이스 (SQL/ERD/MySQL) - <sub>[Link to Online Class]
+(https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=72)</sub>
+
+[Just Online Class Link]
