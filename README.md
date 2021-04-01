@@ -26,3 +26,8 @@
 ## 데이터베이스 (SQL/ERD/MySQL) - <sub>[Link to Online Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=72)</sub>
 
 [Just Online Class Link]
+
+
+## 추천시스템 분석 입문하기 <sub>[Link to Kaggle Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=194)</sub>
+
+[devlunch4's Kaggle Class Github](https://github.com/devlunch4/TAcademyKaggle)
