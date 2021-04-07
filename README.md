@@ -28,6 +28,11 @@
 [Just Online Class Link]
 
 
-## 추천시스템 분석 입문하기 <sub>[Link to Kaggle Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=194)</sub>
+## 추천시스템 분석 입문하기(Kaggle) <sub>[Link to Kaggle Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=194)</sub>
 
 [devlunch4's Kaggle Class Github](https://github.com/devlunch4/TAcademyKaggle)
+
+
+## Node.js 프로그래밍 <sub>[Link to Node.js Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=71)</sub>
+
+[devlunch4's Node.js Class Github](https://github.com/devlunch4/TAcademyNode.js)
