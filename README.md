@@ -38,8 +38,6 @@
 [devlunch4's Node.js Class Github](https://github.com/devlunch4/TAcademyNode.js)
 
 
-## AWS Essentials 
-<sub>[Link to AWS Essentials Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=86)</sub>
+## AWS Essentials <sub>[Link to AWS Essentials Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=86)</sub>
 
 [devlunch4's AWS Essentials Class Github](https://github.com/devlunch4/TAcademy_AWS_Essentials)
-
