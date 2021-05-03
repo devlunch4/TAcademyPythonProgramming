@@ -36,3 +36,10 @@
 ## Node.js 프로그래밍 <sub>[Link to Node.js Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=71)</sub>
 
 [devlunch4's Node.js Class Github](https://github.com/devlunch4/TAcademyNode.js)
+
+
+## AWS Essentials 
+<sub>[Link to AWS Essentials Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=86)</sub>
+
+[devlunch4's AWS Essentials Class Github](https://github.com/devlunch4/TAcademy_AWS_Essentials)
+
