@@ -40,4 +40,4 @@
 
 ## AWS Essentials <sub>[Link to AWS Essentials Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=86)</sub>
 
-[devlunch4's AWS Essentials Class Github](https://github.com/devlunch4/TAcademy_AWS_Essentials)
+[devlunch4's AWS Essentials Class Github](https://github.com/devlunch4/TAcademyAWS_Essentials)
