@@ -43,5 +43,9 @@
 [devlunch4's AWS Essentials Class Github](https://github.com/devlunch4/TAcademyAWS_Essentials)
 
 
-## Pandas 기본기 다지기 <sub>[Link to AWS Essentials Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=180)</sub>
+## Pandas 기본기 다지기 <sub>[Link to Pandas Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=180)</sub>
+
+
+## NumPy(넘파이) 기본 <sub>[Link to NumPy Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=153)</sub>
+
 
