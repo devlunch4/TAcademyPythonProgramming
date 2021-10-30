@@ -40,6 +40,9 @@
 ## 15.Pandas 기본기 다지기 <sub>[Link to Pandas Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=180)</sub>
 
 ## 16.NumPy(넘파이) 기본 <sub>[Link to NumPy Class](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=153)</sub>
+  
+  
+[devlunch4's NumPy Class Github](https://github.com/devlunch4/TAcademyNumPyBasic)
 
 up End.
 down Ing/Next 
